@@ -1,0 +1,8 @@
+{
+  "name": "tte-site",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Site T.T.E. com J.A.R.V.I.S. rodando em IA local (Ollama)",
+  "scripts": { "start": "node server.js", "debug": "node server.js", "diagnostico": "node diagnostico.js" },
+  "engines": { "node": ">=18" }
+}
